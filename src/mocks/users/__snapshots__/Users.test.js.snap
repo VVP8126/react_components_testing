@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Mock test Links render 1`] = `
+<div
+  className="container"
+  data-testid="about-page"
+>
+  <h1>
+    USERS
+  </h1>
+  <h3>
+    List:
+  </h3>
+  <div />
+</div>
+`;
+
+exports[`Mock test renders correctly 1`] = `
+<div
+  className="container"
+  data-testid="about-page"
+>
+  <h1>
+    USERS
+  </h1>
+  <h3>
+    List:
+  </h3>
+  <div />
+</div>
+`;
